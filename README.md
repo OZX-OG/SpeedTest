@@ -1,10 +1,7 @@
 # SpeedTest
 Test You internet speed
 
-(note: To Download libraries just right ' pip install -r important.txt ')
 
+Download libraries:
 
-
-Install from pip:
-
-.. code-block:: bash
+pip install -r important.txt
